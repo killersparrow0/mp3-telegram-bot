@@ -1,4 +1,4 @@
-<h1 align="center">Telegram-Music-Download-Bot</h3>
+<h1 align="center">mp3 telegram bot</h3>
 <p align="center">
   <a href="https://github.com/killersparrow0/mp3-telegram-bot">
     <img src="https://socialify.git.ci/killersparrow0/mp3-telegram-bot/image?description=1&forks=1&issues=1&language=1&owner=1&pattern=Floating%20Cogs&pulls=1&stargazers=1&theme=Dark" alt="Cover Image" width="650">
