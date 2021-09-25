@@ -1,6 +1,6 @@
 <?php
 $token = '1844991724:AAHHejK4CsNPmnk0Bxst-gFQz328KhdVQ0s';
-$img = "BOT_IMG";
+$img = "https://camo.githubusercontent.com/5e138784f97b41ed4e566889295b9ac68a00c920abd2aa53ec9c933ba1d7f0c6/68747470733a2f2f74656c656772612e70682f66696c652f3034383238613133313630356638376130636337622e676966";
 
 $input = file_get_contents('php://input');
 $update = json_decode($input);
